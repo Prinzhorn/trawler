@@ -1,0 +1,24 @@
+{
+  "name": "trawler",
+  "version": "0.0.0",
+  "description": "Express middleware to troll bots. A combination of \"trolling\" and \"crawler\", also a boat for catching a lot of fish. Gotta catch 'em all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Prinzhorn/trawler.git"
+  },
+  "keywords": [
+    "crawling",
+    "crawler",
+    "bots"
+  ],
+  "author": "Alexander Prinzhorn <alexander@prinzhorn.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prinzhorn/trawler/issues"
+  },
+  "homepage": "https://github.com/Prinzhorn/trawler"
+}
