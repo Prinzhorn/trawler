@@ -1,6 +1,6 @@
 {
   "name": "trawler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Express middleware to troll bots. A combination of \"trolling\" and \"crawler\", also a boat for catching a lot of fish. Gotta catch 'em all.",
   "main": "index.js",
   "scripts": {
