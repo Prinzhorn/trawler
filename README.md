@@ -10,9 +10,13 @@ Why?
 Because the access logs of my **node** app kinda looks like this
 
 > 404 - /phpMyAdmin/scripts/setup.php
+
 > 404 - /myadmin/scripts/setup.php
+
 > 404 - /pma/scripts/setup.php
+
 > 404 - /administrator/index.php
+
 > 404 - /wp-login.php
 
 You get the point. And I bet I'm not the only one seeing these. And instead of getting all the "false" 404, why not redirect the bots to a fun location and get rid of them? This will clean our logs and teach them that they should get a hobby instead of hacking wordpress installation.
